@@ -46,6 +46,6 @@ Statements   : 100% ( 5/5 )
 Branches     : 100% ( 0/0 )
 Functions    : 100% ( 2/2 )
 Lines        : 100% ( 4/4 )
-================================================================================
+
 
 © 2024 Réalisé par Djennad Rany pour Serensia Test.
