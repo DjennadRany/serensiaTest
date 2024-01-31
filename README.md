@@ -31,4 +31,21 @@ src/app/child2.component.ts: Définition du composant Child2Component avec des t
 Contribution
 Les contributions sont les bienvenues. Si vous trouvez des problèmes ou si vous avez des suggestions d'amélioration, n'hésitez pas à ouvrir une issue ou à créer une pull request.
 
+
+PS C:\Users\GodFaz75\Desktop\test-entrepris\SerensiaTeste\serensia-project> ng test --watch=false --code-coverage
+✔ Browser application bundle generation complete.
+31 01 2024 14:06:02.914:INFO [karma-server]: Karma v6.4.2 server started at http://localhost:9876/
+31 01 2024 14:06:02.926:INFO [launcher]: Launching browsers Chrome with concurrency unlimited
+31 01 2024 14:06:02.938:INFO [launcher]: Starting browser Chrome
+31 01 2024 14:06:05.192:INFO [Chrome 120.0.0.0 (Windows 10)]: Connected on socket j9S2L10FALtnrk7NAAAB with id 41884188
+Chrome 120.0.0.0 (Windows 10): Executed 4 of 4 SUCCESS (0.212 secs / 0.177 secs)
+TOTAL: 4 SUCCESS
+
+=============================== Coverage summary ===============================
+Statements   : 100% ( 5/5 )
+Branches     : 100% ( 0/0 )
+Functions    : 100% ( 2/2 )
+Lines        : 100% ( 4/4 )
+================================================================================
+
 © 2024 Réalisé par Djennad Rany pour Serensia Test.
